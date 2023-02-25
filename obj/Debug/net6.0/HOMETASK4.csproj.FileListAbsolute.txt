@@ -1,0 +1,15 @@
+J:\УЧЕБА ГИК БРЕЙНС\languages\forthseminar\HOMETASK4\bin\Debug\net6.0\HOMETASK4.exe
+J:\УЧЕБА ГИК БРЕЙНС\languages\forthseminar\HOMETASK4\bin\Debug\net6.0\HOMETASK4.deps.json
+J:\УЧЕБА ГИК БРЕЙНС\languages\forthseminar\HOMETASK4\bin\Debug\net6.0\HOMETASK4.runtimeconfig.json
+J:\УЧЕБА ГИК БРЕЙНС\languages\forthseminar\HOMETASK4\bin\Debug\net6.0\HOMETASK4.dll
+J:\УЧЕБА ГИК БРЕЙНС\languages\forthseminar\HOMETASK4\bin\Debug\net6.0\HOMETASK4.pdb
+J:\УЧЕБА ГИК БРЕЙНС\languages\forthseminar\HOMETASK4\obj\Debug\net6.0\HOMETASK4.csproj.AssemblyReference.cache
+J:\УЧЕБА ГИК БРЕЙНС\languages\forthseminar\HOMETASK4\obj\Debug\net6.0\HOMETASK4.GeneratedMSBuildEditorConfig.editorconfig
+J:\УЧЕБА ГИК БРЕЙНС\languages\forthseminar\HOMETASK4\obj\Debug\net6.0\HOMETASK4.AssemblyInfoInputs.cache
+J:\УЧЕБА ГИК БРЕЙНС\languages\forthseminar\HOMETASK4\obj\Debug\net6.0\HOMETASK4.AssemblyInfo.cs
+J:\УЧЕБА ГИК БРЕЙНС\languages\forthseminar\HOMETASK4\obj\Debug\net6.0\HOMETASK4.csproj.CoreCompileInputs.cache
+J:\УЧЕБА ГИК БРЕЙНС\languages\forthseminar\HOMETASK4\obj\Debug\net6.0\HOMETASK4.dll
+J:\УЧЕБА ГИК БРЕЙНС\languages\forthseminar\HOMETASK4\obj\Debug\net6.0\refint\HOMETASK4.dll
+J:\УЧЕБА ГИК БРЕЙНС\languages\forthseminar\HOMETASK4\obj\Debug\net6.0\HOMETASK4.pdb
+J:\УЧЕБА ГИК БРЕЙНС\languages\forthseminar\HOMETASK4\obj\Debug\net6.0\HOMETASK4.genruntimeconfig.cache
+J:\УЧЕБА ГИК БРЕЙНС\languages\forthseminar\HOMETASK4\obj\Debug\net6.0\ref\HOMETASK4.dll
